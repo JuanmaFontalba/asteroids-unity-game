@@ -16,6 +16,10 @@ Asteroids fall towards the planet at a certain speed. The player shoots the aste
 - Asteroids continuously fall towards the planet.
 - If an asteroid collides with the planet or the spaceship, the game ends.
 
+## 🎥 Gameplay Demo
+
+[▶️ Watch the gameplay demo](https://youtu.be/Ndf9vafLfpU)
+
   ## ✨ Features
 
 - Spaceship movement with an on-screen joystick
